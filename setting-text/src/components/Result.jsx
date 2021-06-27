@@ -13,8 +13,7 @@ class Result extends Component {
       <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <p> Color: red - Font - size: 15 px </p>
         <div id="content" style={this.setStyle()}>
-          {" "}
-          Nội dung setting{" "}
+          Nội dung setting
         </div>
       </div>
     );

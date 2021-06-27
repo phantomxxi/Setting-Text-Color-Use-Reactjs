@@ -37,8 +37,7 @@ class ColorPicker extends Component {
             <h3 className="panel-title"> Color Picker </h3>
           </div>
           <div className="panel-body">
-            {elmColors}
-            <hr />
+            {elmColors} <hr />
           </div>
         </div>
       </div>
